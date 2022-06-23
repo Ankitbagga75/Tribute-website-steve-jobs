@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Fira+Sans&family=Source+Code+Pro:wght@300&family=Spirax&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Stoke:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Smooch&display=swap');
+.quote{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    font-family: 'Spirax', cursive;
+    text-align: center;
+    padding-top: 0px;
+    font-size: 25px;
+    border:1px solid black;
+    margin-top:27px;
+    background-color:lightgrey;
+    border-radius: 25px;
+    width:1046px;
+    text-align: center;
+    margin-left:242px;
+}
+.grid{
+    display: grid; 
+    grid-template-columns: auto auto;
+}
+.page{
+    display: grid; 
+    grid-template-columns: auto auto;
+    margin-top:32px;
+    
+}
+.main{
+    
+    margin-right:  495px;
+    width: auto;
+    margin-left:91px;
+    background-color: lightgrey;
+    border: 1px solid black;
+    padding: 10px;
+
+
+}
+.content{
+   margin-left: 150px;
+    margin-right: -91px;
+    border: 1px solid black;
+    padding: 10px;
+    
+
+}
+.read{
+    margin-top: 0px;
+}
+#stevie{
+    font-size:32px;
+    margin-right: 39px;
+
+}
+#nutshell{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Stoke', serif;
+    font-size: 24px;
+    padding-bottom: 30px;
+}
+#side-content {
+    height: 700px;
+    width: 290px;
+    background-color: white;
+    float: right;
+    clear: both;
+    position: relative;
+    bottom: 680px;
+    margin-top:-160px;
+    margin-right:  100px; ;
+}
+.timeline{
+    text-align: center;
+    margin-top: 98px;
+    font-size: 60px;
+    margin-right: 300px;
+    opacity: 0.8;
+    font-family: 'Stoke', serif;
+}
+.end{
+    text-align: center;
+    margin-top: 106px;
+    font-size: 26px;
+    width: 587px;
+    margin-left: 386px;
+    background-color: lightgray;
+    padding: 60px;
+    border-radius: 40px;
+    font-family: 'Pacifico', cursive;
+}
+#self{
+    font-family: 'Smooch', cursive;
+    font-size: 28px;
+}
